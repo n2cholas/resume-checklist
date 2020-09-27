@@ -43,6 +43,5 @@ Please feel free to open an issue to discuss any of these points or a PR to add/
     - Specialized electives may be relevant, but it’s always better to demonstrate those skills via a project.
 - [ ] Use between 1-4 bullet points per experience/project
     - Exception: when you only have one or two relevant experiences/projects, you _MIGHT_ want to use more bullets to emphasize those.
-- [ ] Reorder recent experience (\<2 years) to put the most relevant experience on top for the role you’re applying to.
 
 Special thanks to Tech+ Fall 2020 Resume Critiquers and Data Science Club execs for providing feedback on this initial version!
